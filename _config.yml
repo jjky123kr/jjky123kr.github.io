@@ -77,7 +77,7 @@ menu:
       - title:         React 
         url:           /react/
   - title:             Error.Log
-    url:               /error/      
+    url:               /error/        
   - title:             Algorithm
     url:               /algorithm/
     submenu:
