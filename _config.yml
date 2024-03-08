@@ -52,17 +52,20 @@ author:
 menu:
   - title:             ABOUT
     url:               /about/
-  - title:             BackendDev.Log
-    url:               /backdev-log/
+  - title:             Language
+    url:               /Language/
     submenu: 
       - title:         Java
         url:           /java/
+      - title:         Python
+        url:           /python/      
+  - title:             BackendDev.Log
+    url:               /backdev-log/
+    submenu: 
       - title:         Spring
         url:           /spring/
       - title:         Springboot
         url:           /springboot/
-      - title:         Python
-        url:           /python/
       - title:         API
         url:           /restapi/
       - title:         DB
