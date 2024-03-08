@@ -1,8 +1,8 @@
 ---
 layout: list
-title: FrontendDev.Log
-slug: frontdev-log
-order: 4
+title: Language
+slug: Language
+order: 2
 description: >
   Anything about Frontend
 ---
