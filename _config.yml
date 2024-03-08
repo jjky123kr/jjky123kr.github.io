@@ -52,8 +52,6 @@ author:
 menu:
   - title:             ABOUT
     url:               /about/
-  - title:             Archives
-    url:               /archives/
   - title:             BackendDev.Log
     url:               /backdev-log/
     submenu: 
@@ -78,6 +76,8 @@ menu:
         url:           /javascript/
       - title:         React 
         url:           /react/
+  - title:             Error.Log
+    url:               /error/      
   - title:             Algorithm
     url:               /algorithm/
     submenu:
