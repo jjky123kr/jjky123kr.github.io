@@ -65,6 +65,8 @@ menu:
         url:           /python/
       - title:         API
         url:           /restapi/
+      - title:         DB
+        url:           /DB/
   - title:             FrontendDev.Log
     url:               /frontdev-log/
     submenu:
