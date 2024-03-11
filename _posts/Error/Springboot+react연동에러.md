@@ -1,10 +1,7 @@
 ---
 layout: post
-related_posts:
-  - /error/
 title: Proxy error Could not proxy request /test/hello from localhost:3000 to http://localhost:8080/ (ECONNREFUSED).
 categories: 
-  - backdev-log
   - error
 ---
 
