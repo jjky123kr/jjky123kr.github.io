@@ -1,10 +1,11 @@
 ---
 layout: post
 related_posts:
-  - /error/error/error_1/
-title: Springboot React 연동 오류 
+  - /backdev-log/
+title: Proxy error Could not proxy request /test/hello from localhost:3000 to http://localhost:8080/ (ECONNREFUSED).
 categories: 
+  - backdev-log
   - error
-  - spring boot
-  - react
 ---
+
+# Proxy error Could not proxy request /test/hello from localhost:3000 to http://localhost:8080/ (ECONNREFUSED). 에러발생
